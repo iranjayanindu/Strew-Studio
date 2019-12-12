@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa63a686-8506-410e-a133-52298ace3759" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SE9fVZSbMjXQNUh5JluDnJm6H5" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My-project" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Education\IJSE\Second Semester Recordings\Web\My-Idea\assests\image" />
+      <recent name="E:\Education\IJSE\Second Semester Recordings\Web\My-Idea\assests\image\content" />
+      <recent name="E:\Education\IJSE\Second Semester Recordings\Web\My-Idea\assests\image\thilanka&amp;thilini" />
+      <recent name="E:\Education\IJSE\Second Semester Recordings\Web\My-Idea\assests\image\mahesh&amp;harshini" />
+      <recent name="E:\Education\IJSE\Second Semester Recordings\Web\My-Idea\assests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Education\IJSE\Second Semester Recordings\Web\My-Idea\assests\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa63a686-8506-410e-a133-52298ace3759" name="Default Changelist" comment="" />
+      <created>1570515444601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570515444601</updated>
+      <workItem from="1570515450610" duration="5632000" />
+      <workItem from="1571117992601" duration="14155000" />
+      <workItem from="1571144373353" duration="2625000" />
+      <workItem from="1571166473920" duration="6195000" />
+      <workItem from="1571247955138" duration="651000" />
+      <workItem from="1571298554241" duration="95000" />
+      <workItem from="1571309213477" duration="11845000" />
+      <workItem from="1571335473548" duration="2203000" />
+      <workItem from="1571374746551" duration="6705000" />
+      <workItem from="1571406055627" duration="11077000" />
+      <workItem from="1571453748723" duration="1379000" />
+      <workItem from="1571479426480" duration="3582000" />
+      <workItem from="1571503417530" duration="6107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
